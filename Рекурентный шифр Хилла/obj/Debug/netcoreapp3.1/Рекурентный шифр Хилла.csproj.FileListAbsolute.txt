@@ -1,0 +1,13 @@
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\bin\Debug\netcoreapp3.1\Рекурентный шифр Хилла.exe
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\bin\Debug\netcoreapp3.1\Рекурентный шифр Хилла.deps.json
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\bin\Debug\netcoreapp3.1\Рекурентный шифр Хилла.runtimeconfig.json
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\bin\Debug\netcoreapp3.1\Рекурентный шифр Хилла.runtimeconfig.dev.json
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\bin\Debug\netcoreapp3.1\Рекурентный шифр Хилла.dll
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\bin\Debug\netcoreapp3.1\Рекурентный шифр Хилла.pdb
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\obj\Debug\netcoreapp3.1\Рекурентный шифр Хилла.csprojAssemblyReference.cache
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\obj\Debug\netcoreapp3.1\Рекурентный шифр Хилла.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\obj\Debug\netcoreapp3.1\Рекурентный шифр Хилла.AssemblyInfo.cs
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\obj\Debug\netcoreapp3.1\Рекурентный шифр Хилла.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\obj\Debug\netcoreapp3.1\Рекурентный шифр Хилла.dll
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\obj\Debug\netcoreapp3.1\Рекурентный шифр Хилла.pdb
+C:\Users\ediks\source\repos\Рекурентный шифр Хилла\obj\Debug\netcoreapp3.1\Рекурентный шифр Хилла.genruntimeconfig.cache

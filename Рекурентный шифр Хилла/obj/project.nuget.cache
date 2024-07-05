@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EwUfX+61oqJ+mtAp3YGDPG74rEEZLUAYgcvKJO/j5S0qZ+vFvWGKU/aatmAUJ2fIIvmDUjFYRVSro9/1mTEkwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ediks\\source\\repos\\Рекурентный шифр Хилла\\Рекурентный шифр Хилла.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

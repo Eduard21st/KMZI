@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLFV9BUykwSm/zc8nyJdi9y1sR/t1e7057+2Iem/BV16Qr75d1UZQ0RS/kv43bcaIpbKstREIHrpapOoBmJSHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ediks\\source\\repos\\RSA\\RSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

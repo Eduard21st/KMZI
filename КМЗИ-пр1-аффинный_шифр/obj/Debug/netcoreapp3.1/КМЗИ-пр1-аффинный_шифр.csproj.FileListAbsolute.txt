@@ -1,0 +1,13 @@
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.exe
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.deps.json
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.runtimeconfig.json
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.runtimeconfig.dev.json
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.dll
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.pdb
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.csprojAssemblyReference.cache
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.AssemblyInfo.cs
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.dll
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.pdb
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_шифр.genruntimeconfig.cache

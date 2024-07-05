@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "КМЗИ-пр1-аффинный_шифр/1.0.0": {
+        "runtime": {
+          "КМЗИ-пр1-аффинный_шифр.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "КМЗИ-пр1-аффинный_шифр/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
