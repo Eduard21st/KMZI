@@ -1,0 +1,13 @@
+C:\Users\ediks\source\repos\HillCipher\bin\Debug\netcoreapp3.1\HillCipher.exe
+C:\Users\ediks\source\repos\HillCipher\bin\Debug\netcoreapp3.1\HillCipher.deps.json
+C:\Users\ediks\source\repos\HillCipher\bin\Debug\netcoreapp3.1\HillCipher.runtimeconfig.json
+C:\Users\ediks\source\repos\HillCipher\bin\Debug\netcoreapp3.1\HillCipher.runtimeconfig.dev.json
+C:\Users\ediks\source\repos\HillCipher\bin\Debug\netcoreapp3.1\HillCipher.dll
+C:\Users\ediks\source\repos\HillCipher\bin\Debug\netcoreapp3.1\HillCipher.pdb
+C:\Users\ediks\source\repos\HillCipher\obj\Debug\netcoreapp3.1\HillCipher.csprojAssemblyReference.cache
+C:\Users\ediks\source\repos\HillCipher\obj\Debug\netcoreapp3.1\HillCipher.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\HillCipher\obj\Debug\netcoreapp3.1\HillCipher.AssemblyInfo.cs
+C:\Users\ediks\source\repos\HillCipher\obj\Debug\netcoreapp3.1\HillCipher.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\HillCipher\obj\Debug\netcoreapp3.1\HillCipher.dll
+C:\Users\ediks\source\repos\HillCipher\obj\Debug\netcoreapp3.1\HillCipher.pdb
+C:\Users\ediks\source\repos\HillCipher\obj\Debug\netcoreapp3.1\HillCipher.genruntimeconfig.cache

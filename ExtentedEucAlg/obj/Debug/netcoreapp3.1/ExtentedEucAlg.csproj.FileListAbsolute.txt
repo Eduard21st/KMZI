@@ -1,0 +1,12 @@
+C:\Users\ediks\source\repos\ExtentedEucAlg\bin\Debug\netcoreapp3.1\ExtentedEucAlg.exe
+C:\Users\ediks\source\repos\ExtentedEucAlg\bin\Debug\netcoreapp3.1\ExtentedEucAlg.deps.json
+C:\Users\ediks\source\repos\ExtentedEucAlg\bin\Debug\netcoreapp3.1\ExtentedEucAlg.runtimeconfig.json
+C:\Users\ediks\source\repos\ExtentedEucAlg\bin\Debug\netcoreapp3.1\ExtentedEucAlg.runtimeconfig.dev.json
+C:\Users\ediks\source\repos\ExtentedEucAlg\bin\Debug\netcoreapp3.1\ExtentedEucAlg.dll
+C:\Users\ediks\source\repos\ExtentedEucAlg\bin\Debug\netcoreapp3.1\ExtentedEucAlg.pdb
+C:\Users\ediks\source\repos\ExtentedEucAlg\obj\Debug\netcoreapp3.1\ExtentedEucAlg.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\ExtentedEucAlg\obj\Debug\netcoreapp3.1\ExtentedEucAlg.AssemblyInfo.cs
+C:\Users\ediks\source\repos\ExtentedEucAlg\obj\Debug\netcoreapp3.1\ExtentedEucAlg.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\ExtentedEucAlg\obj\Debug\netcoreapp3.1\ExtentedEucAlg.dll
+C:\Users\ediks\source\repos\ExtentedEucAlg\obj\Debug\netcoreapp3.1\ExtentedEucAlg.pdb
+C:\Users\ediks\source\repos\ExtentedEucAlg\obj\Debug\netcoreapp3.1\ExtentedEucAlg.genruntimeconfig.cache

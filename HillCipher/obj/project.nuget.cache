@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Git7oX8n37B0RMD1Ll/hqE5ZWCIXnQuBGROeLZcVTLInj1Gyr3/lsAWKtNR4pD9b13jeVWgk3WWyR0NUCtahOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ediks\\source\\repos\\HillCipher\\HillCipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

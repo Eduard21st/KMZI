@@ -1,0 +1,13 @@
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.exe
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.deps.json
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.runtimeconfig.json
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.runtimeconfig.dev.json
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.dll
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\bin\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.pdb
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.csprojAssemblyReference.cache
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.AssemblyInfo.cs
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.dll
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.pdb
+C:\Users\ediks\source\repos\КМЗИ-пр1-аффинный_рекурентный_шифр\obj\Debug\netcoreapp3.1\КМЗИ-пр1-аффинный_рекурентный_шифр.genruntimeconfig.cache
